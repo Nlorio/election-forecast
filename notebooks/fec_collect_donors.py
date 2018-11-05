@@ -7,6 +7,8 @@ import numpy as np
 import yaml
 from pathlib import Path
 import pickle
+import boto3
+from io import BytesIO
 
 CONFIG_FILE = Path('..')/Path('config.yaml')
 with open(CONFIG_FILE, 'r') as f:
@@ -341,4 +343,8 @@ for name in df_candidate_id.name:
     if i == 10:
         break
 
-df.to_pickle('s3://tenguins-tmp/donor_df.pkl')
+pickle_buffer = BytesIO()
+s3_resource = boto3.resource('s3')
+
+df.to_csv(pickle_buffer, index=False)
+s3_resource.Object('tenguins_tmp', 'donor_df.pkl').put(Body=pickle_buffer.getvalue())
