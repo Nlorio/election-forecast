@@ -344,4 +344,4 @@ for name in df_candidate_id.name:
         break
 
 s3 = boto3.resource('s3')
-s3_resource.Object('tenguins_tmp', 'donor_df.csv').put(Body=df.to_csv(index=False)))
+s3_resource.Object('tenguins_tmp', 'donor_df.csv').put(Body=df.to_csv(index=False))
