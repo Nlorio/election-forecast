@@ -343,8 +343,5 @@ for name in df_candidate_id.name:
     if i == 10:
         break
 
-pickle_buffer = BytesIO()
-s3_resource = boto3.resource('s3')
-
-df.to_csv(pickle_buffer, index=False)
-s3_resource.Object('tenguins_tmp', 'donor_df.pkl').put(Body=pickle_buffer.getvalue())
+s3 = boto3.resource('s3')
+s3_resource.Object('tenguins_tmp', 'donor_df.csv').put(Body=df.to_csv(index=False)))
