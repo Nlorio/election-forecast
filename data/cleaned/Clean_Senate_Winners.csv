@@ -1,4 +1,4 @@
-,Date,Party,Name,Chamber,State
+,date,party,name,chamber,state
 0,2017-02-09,r,luther strange,senate,AL
 1,2018-01-03,d,doug jones,senate,AL
 2,2016-11-08,r,richard shelby,senate,AL
@@ -21,7 +21,7 @@
 19,2016-11-08,r,john kennedy,senate,LA
 20,2016-11-08,d,chris van hollen,senate,MD
 21,2018-01-03,d,tina smith,senate,MN
-22,2018-04-02,r,cindy hyde-smith,senate,MS
+22,2018-04-02,r,cindy hydesmith,senate,MS
 23,2016-11-08,r,roy blunt,senate,MO
 24,2016-11-08,d,catherine cortez masto,senate,NV
 25,2016-11-08,d,maggie hassan,senate,NH
@@ -98,7 +98,7 @@
 96,2012-11-06,d,kirsten gillibrand,senate,NY
 97,2012-11-06,d,heidi heitkamp,senate,ND
 98,2012-11-06,d,sherrod brown,senate,OH
-99,2012-11-06,d,bob casey jr.,senate,PA
+99,2012-11-06,d,bob casey jr,senate,PA
 100,2012-11-06,d,sheldon whitehouse,senate,RI
 101,2012-11-06,r,bob corker,senate,TN
 102,2012-11-06,r,ted cruz,senate,TX
