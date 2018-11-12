@@ -25,6 +25,21 @@ API keys are stored in `config.yaml`, which is withheld from the git repository 
 - PollOnlyModel.ipynb :
 	- ignore this
 
+- 538_grade_to_score.ipynb:
+    	- To run this code, you should have two supplemental file, 'pollster.csv' and 'gradetoscore.csv', and all 'RCP_XXX_final.csv' files. 
+    	- This code would first transform the of 'Spread' into a usable form (if binary, might be negative. 
+    	- Secondly, this code would assign the grade (score) to each of the polling data according to 538 website (from 0 to 13, 1 is equivalent to F and 13 is equivalent to A+, score of 0 means unknown)
+
+- agg_poll_market.R:
+	- Ignore this
+	- Attempt to aggregate poll data and market data but failed
+
+- poll_grade.R:
+	- Ignore this. Same as second part of '538_grade_to_score.ipynb'. Can be used to verify the correctness of it.
+	
+- result_transformation.R:
+	- Ignore this. Same as first part of '538_grade_to_score.ipynb'. Can be used to verify the correctness of it.
+#Data
 
 ## Cleaned Data
 
@@ -43,24 +58,44 @@ API keys are stored in `config.yaml`, which is withheld from the git repository 
 
 - RCP_p_approval_Final.csv :
 	- one of the outputs of Practice_with_Polls.ipynb
-
+- RCP_p_approval_Final_538.csv :
+	- one of the putpus of '538_grade_to_score.ipynb'
+	
 - RCP_c_approval_Final.csv :
 	- one of the outputs of Practice_with_Polls.ipynb
-
+	
+- RCP_c_approval_Final_538.csv :
+	- one of the putpus of '538_grade_to_score.ipynb'
+	
 - RCP_Direction_Final.csv :
 	- one of the outputs of Practice_with_Polls.ipynb
 
+- RCP_Direction_Final_538.csv :
+	- one of the outputs of '538_grade_to_score.ipynb'
+	
 - RCP_Generic_Final.csv :
 	- one of the outputs of Practice_with_Polls.ipynb
+	
+- RCP_Generic_Final_538.csv :
+	- one of the putpus of '538_grade_to_score.ipynb'
 
 - RCP_house_Final.csv :
 	- one of the outputs of Practice_with_Polls.ipynb
 
+- RCP_house_Final_538.csv :
+	- one of the putpus of '538_grade_to_score.ipynb'
+
 - RCP_governor_Final.csv :
 	- one of the outputs of Practice_with_Polls.ipynb
 
+- RCP_governor_Final_538.csv :
+	- one of the putpus of '538_grade_to_score.ipynb'
+
 - RCP_senate_Final.csv :
 	- one of the outputs of Practice_with_Polls.ipynb
+	
+- RCP_senate_Final_538.csv :
+	- one of the putpus of '538_grade_to_score.ipynb'
 
 - DailyMarketData_Fixed.csv :
 	- data from PredictIt. It doesn't seem too helpful considering the small number of markets, but it might be worth keeping just in case.
