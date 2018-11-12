@@ -25,6 +25,21 @@ API keys are stored in `config.yaml`, which is withheld from the git repository 
 - PollOnlyModel.ipynb :
 	- ignore this
 
+- 538_grade_to_score.ipynb:
+    	- To run this code, you should have two supplemental file, 'pollster.csv' and 'gradetoscore.csv', and all 'RCP_XXX_final.csv' files (they are in /data/cleaned). 
+    	- This code would first transform the of 'Spread' into a usable form (notice, if the result is binary, ie. 'Democrats and Repblicans', 'Approval and Disapproval', the 'Spread' might be negative, which means, Rep > Dem or Disapp > App). 
+    	- Secondly, this code would assign the grade (score) to each of the polling data according to the information given by 538 website (from 0 to 13, 1 is equivalent to F and 13 is equivalent to A+, notice, score of 0 means unknown)
+
+- agg_poll_market.R:
+	- Ignore this
+	- Attempt to aggregate poll data and market data but failed
+
+- poll_grade.R:
+	- Ignore this. Same as second part of '538_grade_to_score.ipynb'. Can be used to verify the correctness of it.
+	
+- result_transformation.R:
+	- Ignore this. Same as first part of '538_grade_to_score.ipynb'. Can be used to verify the correctness of it.
+#Data
 
 ## Cleaned Data
 
