@@ -63,3 +63,7 @@ API keys are stored in `config.yaml`, which is withheld from the git repository 
 
 - RCP_senate_Final.csv :
 	- one of the outputs of Practice_with_Polls.ipynb
+
+- DailyMarketData_Fixed.csv :
+	- data from PredictIt. It doesn't seem too helpful considering the small number of markets, but it might be worth keeping just in case.
+	
