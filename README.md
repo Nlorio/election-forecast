@@ -19,6 +19,9 @@ API keys are stored in `config.yaml`, which is withheld from the git repository 
 - finding_winners_house_senate.ipynb :
 	- scrapes wikipedia and internet archives to create comprehensive house and senate winners .csv from 2010 to just before the 2018 midterm elections
 
+- Race_Winner_Matcher.ipynb :
+	- takes polls edited by Junseo and adds winners for each race. Also adds district 0 for governor and senator
+
 - PredictIt Analysis.ipynb :
 	- (Jerry's) failed attempt at working with data from PredictIt
 
