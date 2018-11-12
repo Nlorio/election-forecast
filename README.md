@@ -58,24 +58,44 @@ API keys are stored in `config.yaml`, which is withheld from the git repository 
 
 - RCP_p_approval_Final.csv :
 	- one of the outputs of Practice_with_Polls.ipynb
-
+- RCP_p_approval_Final_538.csv :
+	- one of the putpus of '538_grade_to_score.ipynb'
+	
 - RCP_c_approval_Final.csv :
 	- one of the outputs of Practice_with_Polls.ipynb
-
+	
+- RCP_c_approval_Final_538.csv :
+	- one of the putpus of '538_grade_to_score.ipynb'
+	
 - RCP_Direction_Final.csv :
 	- one of the outputs of Practice_with_Polls.ipynb
 
+- RCP_Direction_Final_538.csv :
+	- one of the outputs of '538_grade_to_score.ipynb'
+	
 - RCP_Generic_Final.csv :
 	- one of the outputs of Practice_with_Polls.ipynb
+	
+- RCP_Generic_Final_538.csv :
+	- one of the putpus of '538_grade_to_score.ipynb'
 
 - RCP_house_Final.csv :
 	- one of the outputs of Practice_with_Polls.ipynb
 
+- RCP_house_Final_538.csv :
+	- one of the putpus of '538_grade_to_score.ipynb'
+
 - RCP_governor_Final.csv :
 	- one of the outputs of Practice_with_Polls.ipynb
 
+- RCP_governor_Final_538.csv :
+	- one of the putpus of '538_grade_to_score.ipynb'
+
 - RCP_senate_Final.csv :
 	- one of the outputs of Practice_with_Polls.ipynb
+	
+- RCP_senate_Final_538.csv :
+	- one of the putpus of '538_grade_to_score.ipynb'
 
 - DailyMarketData_Fixed.csv :
 	- data from PredictIt. It doesn't seem too helpful considering the small number of markets, but it might be worth keeping just in case.
