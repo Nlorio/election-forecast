@@ -42,7 +42,14 @@ API keys are stored in `config.yaml`, which is withheld from the git repository 
 	
 - result_transformation.R:
 	- Ignore this. Same as first part of '538_grade_to_score.ipynb'. Can be used to verify the correctness of it.
-#Data
+
+- DemocratRepublican_Classification.ipynb
+	- Assigns party affiliation to the current leader of a race (formatted as a time series)G
+	- For Gubernatorial, Senatorial, and House races
+
+- Polls_Agg.ipynb
+	- Attempt to aggregate polls data with PredictIt markets
+	- Failed -- finding common grounds between the datasets is very difficult without an enormous amount of repetitiveness
 
 ## Cleaned Data
 
@@ -102,3 +109,12 @@ API keys are stored in `config.yaml`, which is withheld from the git repository 
 
 - DailyMarketData_Fixed.csv :
 	- data from PredictIt. It doesn't seem too helpful considering the small number of markets, but it might be worth keeping just in case.
+	
+- gov_races_classified.pkl :
+	- Gubernatorial races classified by party affiliation (output of DemocratRepublican_Classification.ipynb)
+	
+- sen_races_classified.pkl :
+	- Senatorial races classified by party affiliation (output of DemocratRepublican_Classification.ipynb)
+	
+- house_races_classified.pkl :
+	- House races classified by party affiliation (output of DemocratRepublican_Classification.ipynb)
