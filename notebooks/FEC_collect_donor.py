@@ -488,7 +488,7 @@ for name in df_selected_candidates.name:
    
     #df = pd.concat([df, df_name_comm], sort=False)
     print('{}/{}'.format(i, amount))
-    # i+=1
+    i+=1
     # if i == 10:
     #     print(datetime.now())
     #     break
