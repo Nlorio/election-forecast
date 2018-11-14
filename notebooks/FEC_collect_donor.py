@@ -275,6 +275,10 @@ def candidate_donor_df(candidate_name, states, df_candidate_id):
     df_state = cand_donor_state(cand_id, cycles)
 
     if len(df_size) > 0 or len(df_state) > 0:
+        
+        if df_size.values.size == 0 or df_state.values.size == 0:
+                return df.dropna()
+                
         if df_size.iloc[0,0] == 'time_out' or df_state.iloc[0,0] == 'time_out':
             print('API Time Out, Sleep for 1 hour')
             time.sleep(3610)
@@ -375,7 +379,12 @@ def get_committee_candidates(candidate_name, states, df_candidate_id, df_comm):
             df_size = comm_donor_size(comm_id)
             df_state = comm_donor_state(comm_id)
 
+            
             if len(df_size) > 0 or len(df_state) > 0:
+                
+                if df_size.values.size == 0 or df_state.values.size == 0:
+                    break
+                
                 if df_size.iloc[0,0] == 'time_out' or df_state.iloc[0,0] == 'time_out':
                     print('API Time Out, Sleep for 1 hour')
                     time.sleep(3610)
@@ -441,10 +450,11 @@ def get_committee_candidates(candidate_name, states, df_candidate_id, df_comm):
             break
     return df.dropna()
     
+                        
 #Time to Run 
 time = (len(df_selected_candidates.name) / 10 ) * 22 / 60 /60
-print('Hours to run, not counting sleep time: {}'.format(time))                        
-    
+print('Hours to run, not counting sleep time: {}'.format(time))
+
 cand_info = ['name', 'cand_id', 'state','cycle', 'incumbent', 'office_full', 
              'party', 'committee_id', 'committee_name', 'race_candidates', 'election_result']
 donation_levels = ['Donation Level 1',
@@ -478,11 +488,11 @@ for name in df_selected_candidates.name:
    
     #df = pd.concat([df, df_name_comm], sort=False)
     print('{}/{}'.format(i, amount))
-    i+=1
-#     if i == 10:
-#         print(datetime.now())
-#         break
-df        
+    # i+=1
+    # if i == 10:
+    #     print(datetime.now())
+    #     break
+df
 
 df = df.dropna()
 
