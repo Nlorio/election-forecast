@@ -11,6 +11,8 @@ import os
 import re
 from nltk import metrics, stem, tokenize
 import math
+import boto3
+from io import BytesIO
 
 api_key = 'IlbRy4iSNXBdEQhTyhQLXl68EVS3U2XttiNvLtpW'
 
@@ -47,9 +49,9 @@ print('Length of new datframe {}:'.format(len_reform_df))
 
 df_cand = pd.read_pickle('df_cand.pkl')
 
-house_winners = pd.read_pickle(Path('.')/'..'/'data'/'cleaned'/'HousePollwithWinner.pkl')
-senate_winners = pd.read_pickle(Path('.')/'..'/'data'/'cleaned'/'SenatePollwithWinner.pkl')
-gov_winners = pd.read_pickle(Path('.')/'..'/'data'/'cleaned'/'GovernorPollwithWinner.pkl')
+house_winners = pd.read_pickle(Path('.')/'..'/'data'/'cleaned'/'HousePollwithWinner_Final.pkl')
+senate_winners = pd.read_pickle(Path('.')/'..'/'data'/'cleaned'/'SenatePollwithWinner_Final.pkl')
+gov_winners = pd.read_pickle(Path('.')/'..'/'data'/'cleaned'/'GovernorPollwithWinner_Final.pkl')
 
 
 house_winners.head()
@@ -473,4 +475,5 @@ df
 
 
 
-df.to_pickle('donor_df.pkl')
+s3 = boto3.resource('s3')
+s3.Object('tenguins-tmp', 'donor_df.pkl').put(Body=pickle.dump(df))

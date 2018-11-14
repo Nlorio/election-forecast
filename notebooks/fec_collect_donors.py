@@ -340,8 +340,8 @@ for name in df_candidate_id.name:
 
     print('{}/{}'.format(i, amount))
     i+=1
-    if i == 10:
-        break
+#    if i == 10:
+#       break
 
 s3 = boto3.resource('s3')
 s3.Object('tenguins-tmp', 'donor_df.csv').put(Body=df.to_csv(index=False))
