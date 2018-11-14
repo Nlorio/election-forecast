@@ -14,6 +14,7 @@ import math
 import boto3
 from io import BytesIO
 
+
 api_key = 'IlbRy4iSNXBdEQhTyhQLXl68EVS3U2XttiNvLtpW'
 
 df_candidate_id = pd.read_pickle('candidate_ids.pkl')
@@ -218,6 +219,10 @@ def merge_two_dicts(x, y):
     z.update(y)    # modifies z with y's keys and values & returns None
     return z
 
+a = cand_donor_state('P80001571', 2016)
+states = a.state_full
+
+import time
 # Input: Candidate Name, Election Type, Date-time of election (Use Pandas Date time Format)
 # 1. Will incorporate a funcation call to 
 # 2. to retrieve the fraction of committee donations for that candidate
@@ -234,8 +239,7 @@ def merge_two_dicts(x, y):
 #     1 Win
 #     3 No Data
 
-a = cand_donor_state('P80001571', 2016)
-states = a.state_full
+
 
 
 # Returns rows, 1 row per cycle with all features for one candidate. 
@@ -341,7 +345,8 @@ def candidate_donor_df(candidate_name, states, df_candidate_id):
     return df.dropna()
 
                          
- #Add df_candidate_id input to the previous function for candidate donor information collection function 
+import time
+#Add df_candidate_id input to the previous function for candidate donor information collection function 
 
 def get_committee_candidates(candidate_name, states, df_candidate_id, df_comm):
     cand_row = df_candidate_id[df_candidate_id.name == candidate_name]
@@ -450,11 +455,14 @@ def get_committee_candidates(candidate_name, states, df_candidate_id, df_comm):
             break
     return df.dropna()
     
-                        
-#Time to Run 
+ #Time to Run 
 time = (len(df_selected_candidates.name) / 10 ) * 22 / 60 /60
-print('Hours to run, not counting sleep time: {}'.format(time))
+print('Hours to run, not counting sleep time: {}'.format(time))                    
+        
+# 120 calls per minute allowed through API 
+# 4 calls made per candidate
 
+import time
 cand_info = ['name', 'cand_id', 'state','cycle', 'incumbent', 'office_full', 
              'party', 'committee_id', 'committee_name', 'race_candidates', 'election_result']
 donation_levels = ['Donation Level 1',
@@ -477,11 +485,10 @@ for name in df_selected_candidates.name:
         df.iloc[j] = row 
         j += 1
 #     df = pd.concat([df, df_name], sort=False)
-
+    
     df_name_comm = get_committee_candidates(name, states, df_selected_candidates, df_comm)
     if len(df_name_comm.name) != 0:
         for index, row in df_name_comm.iterrows():
-
             df.iloc[j] = row
             j+= 1
         
@@ -489,10 +496,11 @@ for name in df_selected_candidates.name:
     #df = pd.concat([df, df_name_comm], sort=False)
     print('{}/{}'.format(i, amount))
     i+=1
-    # if i == 10:
-    #     print(datetime.now())
-    #     break
+    if i == 10:
+        time.sleep(60)
+print(datetime.now())
 df
+
 
 df = df.dropna()
 
