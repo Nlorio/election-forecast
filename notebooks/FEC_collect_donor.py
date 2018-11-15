@@ -286,6 +286,8 @@ def candidate_donor_df(candidate_name, states, df_candidate_id):
         if df_size.iloc[0,0] == 'time_out' or df_state.iloc[0,0] == 'time_out':
             print('API Time Out, Sleep for 1 hour')
             time.sleep(3610)
+            df_size = cand_donor_size(cand_id, cycles)
+            df_state = cand_donor_state(cand_id, cycles)
 
     if df_size.values.size == 0 or df_state.values.size == 0:
         return df.dropna()
@@ -393,6 +395,8 @@ def get_committee_candidates(candidate_name, states, df_candidate_id, df_comm):
                 if df_size.iloc[0,0] == 'time_out' or df_state.iloc[0,0] == 'time_out':
                     print('API Time Out, Sleep for 1 hour')
                     time.sleep(3610)
+                    df_size = comm_donor_size(comm_id)
+                    df_state = comm_donor_state(comm_id)
 
             if df_size.values.size == 0 or df_state.values.size == 0:
                 break
@@ -497,6 +501,7 @@ for name in df_selected_candidates.name:
     print('{}/{}'.format(i, amount))
     i+=1
     if i == 10:
+        print('API Calls per Minute Time Out, Sleep for 60 seconds')
         time.sleep(60)
 print(datetime.now())
 df
