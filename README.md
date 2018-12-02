@@ -28,7 +28,7 @@ API keys are stored in `config.yaml`, which is withheld from the git repository 
 	- takes polls edited by Junseo and adds winners for each race. Also adds district 0 for governor and senator
 
 - PredictIt Analysis.ipynb :
-	- (Jerry's) failed attempt at working with data from PredictIt
+	- unsuccessful attempt at working with data from PredictIt
 
 - PollOnlyModel.ipynb :
 	- ignore this
