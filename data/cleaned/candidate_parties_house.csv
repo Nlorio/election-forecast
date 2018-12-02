@@ -102,7 +102,7 @@ paul lazaga,o,house,2010,CA
 mike honda,o,house,2010,CA
 scott kirkland,o,house,2010,CA
 zoe lofgren,o,house,2010,CA
-daniel sahagún,o,house,2010,CA
+daniel sahagun,o,house,2010,CA
 edward gonzalez,o,house,2010,CA
 sam farr,o,house,2010,CA
 jeff taylor,o,house,2010,CA
@@ -158,7 +158,7 @@ star parker,o,house,2010,CA
 nicholas dibs,o,house,2010,CA
 grace napolitano,o,house,2010,CA
 robert vaughn,o,house,2010,CA
-linda sánchez,o,house,2010,CA
+linda sanchez,o,house,2010,CA
 larry andre,o,house,2010,CA
 john smith,o,house,2010,CA
 ed royce,o,house,2010,CA
@@ -295,7 +295,7 @@ debbie wasserman schultz,o,house,2010,FL
 karen harrington,o,house,2010,FL
 stanley blumenthal,o,house,2010,FL
 robert kunst,o,house,2010,FL
-mario díazbalart,o,house,2010,FL
+mario diazbalart,o,house,2010,FL
 allen west,o,house,2010,FL
 ron klein,o,house,2010,FL
 alcee hastings,o,house,2010,FL
@@ -334,7 +334,7 @@ mazie hirono,o,house,2010,HI
 john willoughby,o,house,2010,HI
 patric brock,o,house,2010,HI
 andrew von sonn,o,house,2010,HI
-raúl labrador,o,house,2010,ID
+raul labrador,o,house,2010,ID
 walt minnick,o,house,2010,ID
 dave olson,o,house,2010,ID
 mike washburn,o,house,2010,ID
@@ -350,8 +350,8 @@ anthony williams,o,house,2010,IL
 dan lipinski,o,house,2010,IL
 michael bendas,o,house,2010,IL
 laurel lambert schmidt,o,house,2010,IL
-luis gutiérrez,o,house,2010,IL
-israel vázquez,o,house,2010,IL
+luis gutierrez,o,house,2010,IL
+israel vazquez,o,house,2010,IL
 robert j burns,o,house,2010,IL
 michael quigley,o,house,2010,IL
 david ratowitz,o,house,2010,IL
@@ -414,7 +414,7 @@ jesse trueblood,o,house,2010,IN
 mike pence,o,house,2010,IN
 barry welsh,o,house,2010,IN
 t j thompson jr,o,house,2010,IN
-andré carson,o,house,2010,IN
+andre carson,o,house,2010,IN
 marvin scott,o,house,2010,IN
 dav wilson,o,house,2010,IN
 larry bucshon,o,house,2010,IN
@@ -769,7 +769,7 @@ kenneth cody,o,house,2010,NJ
 albio sires,o,house,2010,NJ
 henrietta dwyer,o,house,2010,NJ
 anthony zanowic,o,house,2010,NJ
-máximo gómez nacer,o,house,2010,NJ
+maximo gomez nacer,o,house,2010,NJ
 martin heinrich,o,house,2010,NM
 jon barela,o,house,2010,NM
 steve pearce,o,house,2010,NM
@@ -802,7 +802,7 @@ diana muniz,o,house,2010,NY
 ernest johnson,o,house,2010,NY
 yvette clarke,o,house,2010,NY
 hugh carr,o,house,2010,NY
-nydia velázquez,o,house,2010,NY
+nydia velazquez,o,house,2010,NY
 alice gaffney,o,house,2010,NY
 mike grimm,o,house,2010,NY
 michael mcmahon,o,house,2010,NY
@@ -815,7 +815,7 @@ charles rangel,o,house,2010,NY
 michael faulkner,o,house,2010,NY
 craig schley,o,house,2010,NY
 roger calero,o,house,2010,NY
-josé serrano,o,house,2010,NY
+jose serrano,o,house,2010,NY
 frank della valle,o,house,2010,NY
 eliot engel,o,house,2010,NY
 anthony mele,o,house,2010,NY
@@ -1305,7 +1305,7 @@ kim allen,o,house,2012,AZ
 ron barber,d,house,2012,AZ
 martha mcsally,r,house,2012,AZ
 anthony powell,o,house,2012,AZ
-raúl grijalva,d,house,2012,AZ
+raul grijalva,d,house,2012,AZ
 gabriela saucedo mercer,r,house,2012,AZ
 blanca guerra,o,house,2012,AZ
 paul gosar,r,house,2012,AZ
@@ -1357,7 +1357,7 @@ gregg imus,r,house,2012,CA
 jerry mcnerney,d,house,2012,CA
 ricky gill,r,house,2012,CA
 jeff denham,r,house,2012,CA
-josé m hernández,d,house,2012,CA
+jose m hernandez,d,house,2012,CA
 george miller,d,house,2012,CA
 virginia fuller,r,house,2012,CA
 nancy pelosi,d,house,2012,CA
@@ -1582,7 +1582,7 @@ charles djou,r,house,2012,HI
 tulsi gabbard,d,house,2012,HI
 kawika crowley,r,house,2012,HI
 pat brock,o,house,2012,HI
-raúl labrador,r,house,2012,ID
+raul labrador,r,house,2012,ID
 jimmy farris,d,house,2012,ID
 rob oates,o,house,2012,ID
 mike simpson,r,house,2012,ID
@@ -1594,7 +1594,7 @@ brian woodworth,r,house,2012,IL
 marcus lewis,o,house,2012,IL
 dan lipinski,d,house,2012,IL
 richard grabowski,r,house,2012,IL
-luis gutiérrez,d,house,2012,IL
+luis gutierrez,d,house,2012,IL
 hector concepcion,r,house,2012,IL
 mike quigley,d,house,2012,IL
 dan schmitt,r,house,2012,IL
@@ -1644,7 +1644,7 @@ chard reid,o,house,2012,IN
 luke messer,r,house,2012,IN
 brad bookout,d,house,2012,IN
 rex bell,o,house,2012,IN
-andré carson,d,house,2012,IN
+andre carson,d,house,2012,IN
 carlos may,r,house,2012,IN
 larry bucshon,r,house,2012,IN
 dave crooks,d,house,2012,IN
@@ -1946,7 +1946,7 @@ michelle lujan grisham,d,house,2012,NM
 janice arnoldjones,r,house,2012,NM
 steve pearce,r,house,2012,NM
 evelyn madrid erhard,d,house,2012,NM
-ben ray luján,d,house,2012,NM
+ben ray lujan,d,house,2012,NM
 jeff byrd,r,house,2012,NM
 tim bishop,d,house,2012,NY
 randy altschuler,r,house,2012,NY
@@ -2271,7 +2271,7 @@ sean seibert,r,house,2012,TX
 christopher barber,o,house,2012,TX
 randy neugebauer,r,house,2012,TX
 chip peterson,o,house,2012,TX
-joaquín castro,d,house,2012,TX
+joaquin castro,d,house,2012,TX
 david rosa,r,house,2012,TX
 tracy potts,o,house,2012,TX
 antonio diaz,o,house,2012,TX
@@ -2447,7 +2447,7 @@ ann kirkpatrick,d,house,2014,AZ
 andy tobin,r,house,2014,AZ
 martha mcsally,r,house,2014,AZ
 ron barber,d,house,2014,AZ
-raúl grijalva,d,house,2014,AZ
+raul grijalva,d,house,2014,AZ
 gabriela saucedo mercer,r,house,2014,AZ
 paul gosar,r,house,2014,AZ
 mike weisser,d,house,2014,AZ
@@ -2757,7 +2757,7 @@ john krom,o,house,2014,IN
 luke messer,r,house,2014,IN
 susan hall heitzman,d,house,2014,IN
 eric miller,o,house,2014,IN
-andré carson,d,house,2014,IN
+andre carson,d,house,2014,IN
 catherine ping,r,house,2014,IN
 chris mayo,o,house,2014,IN
 larry bucshon,r,house,2014,IN
@@ -3039,11 +3039,11 @@ don dezarn,o,house,2014,NJ
 steven welzer,o,house,2014,NJ
 ken cody,o,house,2014,NJ
 jack freudenheim,o,house,2014,NJ
-michelle luján grisham,d,house,2014,NM
+michelle lujan grisham,d,house,2014,NM
 mike frese,r,house,2014,NM
 steve pearce,r,house,2014,NM
 rocky lara,d,house,2014,NM
-ben ray luján,d,house,2014,NM
+ben ray lujan,d,house,2014,NM
 jeff byrd,r,house,2014,NM
 lee zeldin,r,house,2014,NY
 tim bishop,d,house,2014,NY
@@ -3075,7 +3075,7 @@ charles rangel,d,house,2014,NY
 daniel vila,o,house,2014,NY
 joe crowley,d,house,2014,NY
 elizabeth perri,o,house,2014,NY
-josé serrano,d,house,2014,NY
+jose serrano,d,house,2014,NY
 eduardo ramirez,o,house,2014,NY
 bill edstrom,o,house,2014,NY
 eliot engel,d,house,2014,NY
@@ -3509,7 +3509,7 @@ paul babeu,r,house,2016,AZ
 ray parrish,o,house,2016,AZ
 martha mcsally,r,house,2016,AZ
 matt heinz,d,house,2016,AZ
-raúl grijalva,d,house,2016,AZ
+raul grijalva,d,house,2016,AZ
 paul gosar,r,house,2016,AZ
 mikel weisser,d,house,2016,AZ
 andy biggs,r,house,2016,AZ
@@ -3586,7 +3586,7 @@ judy chu,d,house,2016,CA
 jack orswell,r,house,2016,CA
 adam schiff,d,house,2016,CA
 lenore solis,r,house,2016,CA
-tony cárdenas,d,house,2016,CA
+tony cardenas,d,house,2016,CA
 richard alarcon,d,house,2016,CA
 brad sherman,d,house,2016,CA
 mark reed,r,house,2016,CA
@@ -3604,7 +3604,7 @@ raul ruiz,d,house,2016,CA
 jeff stone,r,house,2016,CA
 karen bass,d,house,2016,CA
 chris wiggins,d,house,2016,CA
-linda sánchez,d,house,2016,CA
+linda sanchez,d,house,2016,CA
 ryan downing,r,house,2016,CA
 ed royce,r,house,2016,CA
 brett murdock,d,house,2016,CA
@@ -3615,7 +3615,7 @@ ken calvert,r,house,2016,CA
 tim sheridan,d,house,2016,CA
 maxine waters,d,house,2016,CA
 omar navarro,r,house,2016,CA
-nanette barragán,d,house,2016,CA
+nanette barragan,d,house,2016,CA
 isadore hall iii,d,house,2016,CA
 mimi walters,r,house,2016,CA
 ron varasteh,d,house,2016,CA
@@ -3723,7 +3723,7 @@ andrea leigh mcgee,r,house,2016,FL
 debbie wasserman schultz,d,house,2016,FL
 joe kaufman,r,house,2016,FL
 frederica wilson,d,house,2016,FL
-mario díazbalart,r,house,2016,FL
+mario diazbalart,r,house,2016,FL
 alina valdes,d,house,2016,FL
 carlos curbelo,r,house,2016,FL
 joe garcia,d,house,2016,FL
@@ -3757,7 +3757,7 @@ shirlene d ostrov,r,house,2016,HI
 alan yim,o,house,2016,HI
 tulsi gabbard,d,house,2016,HI
 angela kaaihue,r,house,2016,HI
-raúl labrador,r,house,2016,ID
+raul labrador,r,house,2016,ID
 james piotrowski,d,house,2016,ID
 mike simpson,r,house,2016,ID
 jennifer martinez,d,house,2016,ID
@@ -3766,7 +3766,7 @@ august deuser,r,house,2016,IL
 robin kelly,d,house,2016,IL
 john morrow,r,house,2016,IL
 dan lipinski,d,house,2016,IL
-luis gutiérrez,d,house,2016,IL
+luis gutierrez,d,house,2016,IL
 mike quigley,d,house,2016,IL
 vince kolber,r,house,2016,IL
 rob sherman,o,house,2016,IL
@@ -3812,7 +3812,7 @@ matthew wittlief,o,house,2016,IN
 luke messer,r,house,2016,IN
 barry welsh,d,house,2016,IN
 rich turvey,o,house,2016,IN
-andré carson,d,house,2016,IN
+andre carson,d,house,2016,IN
 cat ping,r,house,2016,IN
 drew thompson,o,house,2016,IN
 larry bucshon,r,house,2016,IN
@@ -4077,11 +4077,11 @@ bonnie watson coleman,d,house,2016,NJ
 steven uccio,r,house,2016,NJ
 thomas fitzpatrick,o,house,2016,NJ
 steven welzer,o,house,2016,NJ
-michelle luján grisham,d,house,2016,NM
+michelle lujan grisham,d,house,2016,NM
 richard priem,r,house,2016,NM
 steve pearce,r,house,2016,NM
 merrie lee soules,d,house,2016,NM
-ben ray luján,d,house,2016,NM
+ben ray lujan,d,house,2016,NM
 michael romero,r,house,2016,NM
 lee zeldin,r,house,2016,NY
 anna throneholst,d,house,2016,NY
@@ -4113,7 +4113,7 @@ robert a evans jr,r,house,2016,NY
 daniel rivera,o,house,2016,NY
 joe crowley,d,house,2016,NY
 frank spotorno,r,house,2016,NY
-josé serrano,d,house,2016,NY
+jose serrano,d,house,2016,NY
 alejandro vega,r,house,2016,NY
 eliot engel,d,house,2016,NY
 nita lowey,d,house,2016,NY
@@ -4358,7 +4358,7 @@ calvin deweese,o,house,2016,TX
 tomlinson,o,house,2016,TX
 randy weber,r,house,2016,TX
 michael cole,d,house,2016,TX
-vicente gonzález,d,house,2016,TX
+vicente gonzalez,d,house,2016,TX
 tom westley,r,house,2016,TX
 ross lynn leone,o,house,2016,TX
 vanessa tijerina,o,house,2016,TX
@@ -4374,7 +4374,7 @@ thomas kleven,o,house,2016,TX
 jodey arrington,r,house,2016,TX
 troy bonar,o,house,2016,TX
 mark lawson,o,house,2016,TX
-joaquín castro,d,house,2016,TX
+joaquin castro,d,house,2016,TX
 jeffrey c blunt,o,house,2016,TX
 paul pipkin,o,house,2016,TX
 lamar smith,r,house,2016,TX
@@ -4530,7 +4530,7 @@ tom ohalleran,d,house,2018,AZ
 wendy rogers,r,house,2018,AZ
 ann kirkpatrick,d,house,2018,AZ
 lea marquezpeterson,r,house,2018,AZ
-raúl grijalva,d,house,2018,AZ
+raul grijalva,d,house,2018,AZ
 nick pierson,r,house,2018,AZ
 paul gosar,r,house,2018,AZ
 david brill,d,house,2018,AZ
@@ -4586,7 +4586,7 @@ lisa remmer,r,house,2018,CA
 barbara lee,d,house,2018,CA
 laura wells,o,house,2018,CA
 jackie speier,d,house,2018,CA
-cristina osmeña,r,house,2018,CA
+cristina osmena,r,house,2018,CA
 eric swalwell,d,house,2018,CA
 rudy peters,r,house,2018,CA
 jim costa,d,house,2018,CA
@@ -4609,12 +4609,12 @@ justin fareed,r,house,2018,CA
 katie hill,d,house,2018,CA
 steve knight,r,house,2018,CA
 julia brownley,d,house,2018,CA
-antonio sabàto jr,r,house,2018,CA
+antonio sabato jr,r,house,2018,CA
 judy chu,d,house,2018,CA
 bryan witt,d,house,2018,CA
 adam schiff,d,house,2018,CA
 johnny nalbandian,r,house,2018,CA
-tony cárdenas,d,house,2018,CA
+tony cardenas,d,house,2018,CA
 benito bernal,r,house,2018,CA
 brad sherman,d,house,2018,CA
 mark reed,r,house,2018,CA
@@ -4632,7 +4632,7 @@ raul ruiz,d,house,2018,CA
 kimberlin brown pelzer,r,house,2018,CA
 karen bass,d,house,2018,CA
 ron bassilian,r,house,2018,CA
-linda sánchez,d,house,2018,CA
+linda sanchez,d,house,2018,CA
 ryan downing,r,house,2018,CA
 gil cisneros,d,house,2018,CA
 young kim,r,house,2018,CA
@@ -4644,7 +4644,7 @@ ken calvert,r,house,2018,CA
 julia peacock,d,house,2018,CA
 maxine waters,d,house,2018,CA
 omar navarro,r,house,2018,CA
-nanette barragán,d,house,2018,CA
+nanette barragan,d,house,2018,CA
 aja brown,d,house,2018,CA
 katie porter,d,house,2018,CA
 mimi walters,r,house,2018,CA
@@ -4737,7 +4737,7 @@ nicolas kimaz,r,house,2018,FL
 debbie wasserman schultz,d,house,2018,FL
 joseph kaufman,r,house,2018,FL
 frederica wilson,d,house,2018,FL
-mario díazbalart,r,house,2018,FL
+mario diazbalart,r,house,2018,FL
 mary barzee flores,d,house,2018,FL
 debbie mucarselpowell,d,house,2018,FL
 carlos curbelo,r,house,2018,FL
@@ -4794,7 +4794,7 @@ robin kelly,d,house,2018,IL
 david merkle,r,house,2018,IL
 dan lipinski,d,house,2018,IL
 arthur jones,r,house,2018,IL
-garcía,d,house,2018,IL
+garcia,d,house,2018,IL
 mark lorch,r,house,2018,IL
 mike quigley,d,house,2018,IL
 tom hanson,r,house,2018,IL
@@ -4837,7 +4837,7 @@ susan brooks,r,house,2018,IN
 dee thornton,d,house,2018,IN
 greg pence,r,house,2018,IN
 jeannine lake,d,house,2018,IN
-andré carson,d,house,2018,IN
+andre carson,d,house,2018,IN
 harmon,r,house,2018,IN
 larry bucshon,r,house,2018,IN
 william tanoos,d,house,2018,IN
@@ -5136,7 +5136,7 @@ janice arnoldjones,r,house,2018,NM
 lloyd princeton,o,house,2018,NM
 xochitl torres small,d,house,2018,NM
 yvette herrell,r,house,2018,NM
-ben ray luján,d,house,2018,NM
+ben ray lujan,d,house,2018,NM
 jerald mcfall,r,house,2018,NM
 christopher manning,o,house,2018,NM
 lee zeldin,r,house,2018,NY
@@ -5150,7 +5150,7 @@ ameer benno,r,house,2018,NY
 gregory meeks,d,house,2018,NY
 grace meng,d,house,2018,NY
 tom hillgardner,o,house,2018,NY
-nydia velázquez,d,house,2018,NY
+nydia velazquez,d,house,2018,NY
 joseph lieberman,o,house,2018,NY
 jeff kurzon,o,house,2018,NY
 hakeem jeffries,d,house,2018,NY
@@ -5173,7 +5173,7 @@ alexandria ocasiocortez,d,house,2018,NY
 james dillon,o,house,2018,NY
 anthony pappas,r,house,2018,NY
 elizabeth perri,o,house,2018,NY
-josé serrano,d,house,2018,NY
+jose serrano,d,house,2018,NY
 jason gonzalez,r,house,2018,NY
 eliot engel,d,house,2018,NY
 nita lowey,d,house,2018,NY
@@ -5447,7 +5447,7 @@ calvin deweese,o,house,2018,TX
 randy weber,r,house,2018,TX
 adrienne bell,d,house,2018,TX
 don conley iii,o,house,2018,TX
-vicente gonzález,d,house,2018,TX
+vicente gonzalez,d,house,2018,TX
 tim westley,r,house,2018,TX
 anthony cristo,o,house,2018,TX
 veronica escobar,d,house,2018,TX
@@ -5461,7 +5461,7 @@ ava pate,r,house,2018,TX
 luke spencer,o,house,2018,TX
 jodey arrington,r,house,2018,TX
 miguel levario,d,house,2018,TX
-joaquín castro,d,house,2018,TX
+joaquin castro,d,house,2018,TX
 jeffrey blunt,o,house,2018,TX
 chip roy,r,house,2018,TX
 joseph kopser,d,house,2018,TX
