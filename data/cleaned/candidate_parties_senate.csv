@@ -1,0 +1,590 @@
+name,party,race_type,year,state
+ scott brown,r,senate,2010,MA
+martha coakley,d,senate,2010,MA
+ joseph l kennedy,o,senate,2010,MA
+ chris coons,d,senate,2010,DE
+christine odonnell,r,senate,2010,DE
+glenn miller,o,senate,2010,DE
+james rash,o,senate,2010,DE
+ mark kirk,r,senate,2010,IL
+alexi giannoulias,d,senate,2010,IL
+lealan jones,o,senate,2010,IL
+mike labino,o,senate,2010,IL
+ kirsten gillibrand,d,senate,2010,NY
+joseph dioguardi,r,senate,2010,NY
+cecile lawrence,o,senate,2010,NY
+joseph huff,o,senate,2010,NY
+ joe manchin,d,senate,2010,WV
+john raese,r,senate,2010,WV
+jesse johnson,o,senate,2010,WV
+jeff becker,o,senate,2010,WV
+ richard shelby,r,senate,2010,AL
+ william g barnes,d,senate,2010,AL
+ lisa murkowski,r,senate,2010,AK
+joe miller,r,senate,2010,AK
+scott mcadams,d,senate,2010,AK
+ john mccain,r,senate,2010,AZ
+rodney glassman,d,senate,2010,AZ
+david nolan,o,senate,2010,AZ
+jerry joslyn,o,senate,2010,AZ
+ john boozman,r,senate,2010,AR
+blanche lincoln,d,senate,2010,AR
+trevor drown,o,senate,2010,AR
+john gray,o,senate,2010,AR
+ barbara boxer,d,senate,2010,CA
+carly fiorina,r,senate,2010,CA
+gail lightfoot,o,senate,2010,CA
+edward noonan,o,senate,2010,CA
+duane roberts,o,senate,2010,CA
+ michael bennet,d,senate,2010,CO
+ken buck,r,senate,2010,CO
+bob kinsey,o,senate,2010,CO
+maclyn stringer,o,senate,2010,CO
+ richard blumenthal,d,senate,2010,CT
+linda mcmahon,r,senate,2010,CT
+warren mosler,o,senate,2010,CT
+john mertens,o,senate,2010,CT
+ marco rubio,r,senate,2010,FL
+charlie crist,o,senate,2010,FL
+kendrick meek,d,senate,2010,FL
+alexander snitker,o,senate,2010,FL
+ johnny isakson,r,senate,2010,GA
+michael thurmond,d,senate,2010,GA
+chuck donovan,o,senate,2010,GA
+ daniel inouye,d,senate,2010,HI
+campbell cavasso,r,senate,2010,HI
+james brewer,o,senate,2010,HI
+jeff mallan,o,senate,2010,HI
+ mike crapo,r,senate,2010,ID
+ tom sullivan,d,senate,2010,ID
+randy bergquist,o,senate,2010,ID
+ mark kirk,r,senate,2010,IL
+alexi giannoulias,d,senate,2010,IL
+lealan jones,o,senate,2010,IL
+mike labino,o,senate,2010,IL
+ dan coats,r,senate,2010,IN
+brad ellsworth,d,senate,2010,IN
+rebecca sinkburris,o,senate,2010,IN
+ chuck grassley,r,senate,2010,IA
+ roxanne conlin,d,senate,2010,IA
+john heiderscheit,o,senate,2010,IA
+ jerry moran,r,senate,2010,KS
+lisa johnston,d,senate,2010,KS
+michael dann,o,senate,2010,KS
+joe bellis,o,senate,2010,KS
+ rand paul,r,senate,2010,KY
+jack conway,d,senate,2010,KY
+ david vitter,r,senate,2010,LA
+charles melancon,d,senate,2010,LA
+randall hayes,o,senate,2010,LA
+michael brown,o,senate,2010,LA
+ barbara mikulski,d,senate,2010,MD
+eric wargotz,r,senate,2010,MD
+kenniss henry,o,senate,2010,MD
+richard shawver,o,senate,2010,MD
+ roy blunt,r,senate,2010,MO
+robin carnahan,d,senate,2010,MO
+jonathan dine,o,senate,2010,MO
+jerry beck,o,senate,2010,MO
+ harry reid,d,senate,2010,NV
+sharron angle,r,senate,2010,NV
+scott ashjian,o,senate,2010,NV
+ kelly ayotte,r,senate,2010,NH
+paul hodes,d,senate,2010,NH
+chris booth,o,senate,2010,NH
+ken blevens,o,senate,2010,NH
+ chuck schumer,d,senate,2010,NY
+jay townsend,r,senate,2010,NY
+colia clark,o,senate,2010,NY
+randy credico,o,senate,2010,NY
+ richard burr,r,senate,2010,NC
+elaine marshall,d,senate,2010,NC
+mike beitler,o,senate,2010,NC
+ john hoeven,r,senate,2010,ND
+tracy potter,d,senate,2010,ND
+keith hanson,o,senate,2010,ND
+ rob portman,r,senate,2010,OH
+lee fisher,d,senate,2010,OH
+eric deaton,o,senate,2010,OH
+michael pryce,o,senate,2010,OH
+ tom coburn,r,senate,2010,OK
+jim rogers,d,senate,2010,OK
+stephen wallace,o,senate,2010,OK
+ronald dwyer,o,senate,2010,OK
+ ron wyden,d,senate,2010,OR
+jim huffman,r,senate,2010,OR
+marc delphine,o,senate,2010,OR
+rick staggenborg,o,senate,2010,OR
+ pat toomey,r,senate,2010,PA
+joe sestak,d,senate,2010,PA
+ jim demint,r,senate,2010,SC
+ alvin greene,d,senate,2010,SC
+tom clements,o,senate,2010,SC
+ john thune,r,senate,2010,SD
+ mike lee,r,senate,2010,UT
+sam granato,d,senate,2010,UT
+scott bradley,o,senate,2010,UT
+ patrick leahy,d,senate,2010,VT
+len britton,r,senate,2010,VT
+daniel freilich,o,senate,2010,VT
+ cris ericson,o,senate,2010,VT
+stephen cain,o,senate,2010,VT
+ patty murray,d,senate,2010,WA
+dino rossi,r,senate,2010,WA
+ ron johnson,r,senate,2010,WI
+russ feingold,d,senate,2010,WI
+rob taylor,o,senate,2010,WI
+ jeff flake,r,senate,2012,AZ
+richard carmona,d,senate,2012,AZ
+marc victor,o,senate,2012,AZ
+ dianne feinstein,d,senate,2012,CA
+elizabeth emken,r,senate,2012,CA
+ chris murphy,d,senate,2012,CT
+linda mcmahon,r,senate,2012,CT
+paul passarelli,o,senate,2012,CT
+ tom carper,d,senate,2012,DE
+kevin wade,r,senate,2012,DE
+alex pires,o,senate,2012,DE
+andrew groff,o,senate,2012,DE
+ bill nelson,d,senate,2012,FL
+connie mack iv,r,senate,2012,FL
+chris borgia,o,senate,2012,FL
+bill gaylor,o,senate,2012,FL
+ mazie hirono,d,senate,2012,HI
+linda lingle,r,senate,2012,HI
+ joe donnelly,d,senate,2012,IN
+richard mourdock,r,senate,2012,IN
+andrew horning,o,senate,2012,IN
+ angus king,o,senate,2012,ME
+charles e summers jr,r,senate,2012,ME
+cynthia dill,d,senate,2012,ME
+danny f dalton,o,senate,2012,ME
+andrew ian dodge,o,senate,2012,ME
+ ben cardin,d,senate,2012,MD
+dan bongino,r,senate,2012,MD
+rob sobhani,o,senate,2012,MD
+dean ahmad,o,senate,2012,MD
+ elizabeth warren,d,senate,2012,MA
+scott brown,r,senate,2012,MA
+ debbie stabenow,d,senate,2012,MI
+pete hoekstra,r,senate,2012,MI
+scotty boman,o,senate,2012,MI
+harley mikkelson,r,senate,2012,MI
+richard matkin,o,senate,2012,MI
+ amy klobuchar,d,senate,2012,MN
+kurt bills,r,senate,2012,MN
+stephen williams,o,senate,2012,MN
+tim davis,o,senate,2012,MN
+ roger wicker,r,senate,2012,MS
+albert n gore jr,d,senate,2012,MS
+shawn ohara,o,senate,2012,MS
+ claire mccaskill,d,senate,2012,MO
+todd akin,r,senate,2012,MO
+jonathan dine,o,senate,2012,MO
+ jon tester,d,senate,2012,MT
+denny rehberg,r,senate,2012,MT
+dan cox,o,senate,2012,MT
+ deb fischer,r,senate,2012,NE
+bob kerrey,d,senate,2012,NE
+ dean heller,r,senate,2012,NV
+shelley berkley,d,senate,2012,NV
+ bob menendez,d,senate,2012,NJ
+joe kyrillos,r,senate,2012,NJ
+ken kaplan,o,senate,2012,NJ
+ken wolski,o,senate,2012,NJ
+gavin bard,o,senate,2012,NJ
+larry donahue,o,senate,2012,NJ
+ martin heinrich,d,senate,2012,NM
+heather wilson,r,senate,2012,NM
+jon barrie,o,senate,2012,NM
+ kirsten gillibrand,d,senate,2012,NY
+wendy e long,r,senate,2012,NY
+colia clark,o,senate,2012,NY
+chris edes,o,senate,2012,NY
+ heidi heitkamp,d,senate,2012,ND
+rick berg,r,senate,2012,ND
+ sherrod brown,d,senate,2012,OH
+josh mandel,r,senate,2012,OH
+scott a rupert,o,senate,2012,OH
+ bob casey jr,d,senate,2012,PA
+tom smith,r,senate,2012,PA
+rayburn douglas smith,o,senate,2012,PA
+ sheldon whitehouse,d,senate,2012,RI
+barry hinckley,r,senate,2012,RI
+ bob corker,r,senate,2012,TN
+mark clayton,d,senate,2012,TN
+martin pleasant,o,senate,2012,TN
+dr shaun crowell,o,senate,2012,TN
+kermit steck,o,senate,2012,TN
+ ted cruz,r,senate,2012,TX
+paul sadler,d,senate,2012,TX
+john jay myers,o,senate,2012,TX
+david collins,o,senate,2012,TX
+ orrin hatch,r,senate,2012,UT
+scott howell,d,senate,2012,UT
+ bernie sanders,o,senate,2012,VT
+john macgovern,r,senate,2012,VT
+laurel laframboise,o,senate,2012,VT
+ tim kaine,d,senate,2012,VA
+george allen,r,senate,2012,VA
+ maria cantwell,d,senate,2012,WA
+michael baumgartner,r,senate,2012,WA
+ joe manchin,d,senate,2012,WV
+john raese,r,senate,2012,WV
+bob henry baber,o,senate,2012,WV
+ tammy baldwin,d,senate,2012,WI
+tommy thompson,r,senate,2012,WI
+joseph kexel,o,senate,2012,WI
+nimrod y u allen iii,o,senate,2012,WI
+ john barrasso,r,senate,2012,WY
+tim chesnut,d,senate,2012,WY
+joel otto,o,senate,2012,WY
+ ed markey,d,senate,2012,MA
+gabriel e gomez,r,senate,2012,MA
+ cory booker,d,senate,2012,NJ
+steve lonegan,r,senate,2012,NJ
+ brian schatz,d,senate,2014,HI
+campbell cavasso,r,senate,2014,HI
+michael a kokoski,o,senate,2014,HI
+ james lankford,r,senate,2014,OK
+connie johnson,d,senate,2014,OK
+ mark t beard,o,senate,2014,OK
+ tim scott,r,senate,2014,SC
+joyce dickerson,d,senate,2014,SC
+jill bossi,o,senate,2014,SC
+ jeff sessions,r,senate,2014,AL
+ dan sullivan,r,senate,2014,AK
+mark begich,d,senate,2014,AK
+mark fish,o,senate,2014,AK
+ted gianoutsos,o,senate,2014,AK
+ tom cotton,r,senate,2014,AR
+mark pryor,d,senate,2014,AR
+nathan lafrance,o,senate,2014,AR
+mark swaney,o,senate,2014,AR
+ cory gardner,r,senate,2014,CO
+mark udall,d,senate,2014,CO
+gaylon kent,o,senate,2014,CO
+stephen h shogan,o,senate,2014,CO
+raul acosta,o,senate,2014,CO
+ bill hammons,o,senate,2014,CO
+ chris coons,d,senate,2014,DE
+kevin wade,r,senate,2014,DE
+andrew groff,o,senate,2014,DE
+ david perdue,r,senate,2014,GA
+michelle nunn,d,senate,2014,GA
+amanda swafford,o,senate,2014,GA
+ jim risch,r,senate,2014,ID
+nels mitchell,d,senate,2014,ID
+ dick durbin,d,senate,2014,IL
+jim oberweis,r,senate,2014,IL
+sharon hansen,o,senate,2014,IL
+ joni ernst,r,senate,2014,IA
+bruce braley,d,senate,2014,IA
+rick stewart,o,senate,2014,IA
+doug butzier,o,senate,2014,IA
+bob quast,o,senate,2014,IA
+ruth smith,o,senate,2014,IA
+ pat roberts,r,senate,2014,KS
+greg orman,o,senate,2014,KS
+ randall batson,o,senate,2014,KS
+ mitch mcconnell,r,senate,2014,KY
+alison lundergan grimes,d,senate,2014,KY
+david patterson,o,senate,2014,KY
+ bill cassidy,r,senate,2014,LA
+mary landrieu,d,senate,2014,LA
+ susan collins,r,senate,2014,ME
+shenna bellows,d,senate,2014,ME
+ ed markey,d,senate,2014,MA
+brian herr,r,senate,2014,MA
+ gary peters,d,senate,2014,MI
+terri lynn land,r,senate,2014,MI
+jim fulner,o,senate,2014,MI
+ chris wahmhoff,o,senate,2014,MI
+mike mcfadden,r,senate,2014,MN
+steve carlson,o,senate,2014,MN
+heather johnson,o,senate,2014,MN
+ thad cochran,r,senate,2014,MS
+travis childers,d,senate,2014,MS
+shawn ohara,o,senate,2014,MS
+ steve daines,r,senate,2014,MT
+amanda curtis,d,senate,2014,MT
+ roger roots,o,senate,2014,MT
+ ben sasse,r,senate,2014,NE
+david domina,d,senate,2014,NE
+jim jenkins,o,senate,2014,NE
+todd watson,o,senate,2014,NE
+ jeanne shaheen,d,senate,2014,NH
+scott brown,r,senate,2014,NH
+ cory booker,d,senate,2014,NJ
+jeff bell,r,senate,2014,NJ
+joe baratelli,o,senate,2014,NJ
+jeff boss,o,senate,2014,NJ
+antonio sabas,o,senate,2014,NJ
+ tom udall,d,senate,2014,NM
+allen weh,r,senate,2014,NM
+ thom tillis,r,senate,2014,NC
+kay hagan,d,senate,2014,NC
+sean haugh,o,senate,2014,NC
+ jim inhofe,r,senate,2014,OK
+matt silverstein,d,senate,2014,OK
+joan farr,o,senate,2014,OK
+ray woods,o,senate,2014,OK
+aaron delozier,o,senate,2014,OK
+ jeff merkley,d,senate,2014,OR
+monica wehby,r,senate,2014,OR
+mike montchalin,o,senate,2014,OR
+james e leuenberger,o,senate,2014,OR
+ jack reed,d,senate,2014,RI
+mark zaccaria,r,senate,2014,RI
+ lindsey graham,r,senate,2014,SC
+brad hutto,d,senate,2014,SC
+thomas ravenel,o,senate,2014,SC
+victor kocher,o,senate,2014,SC
+ mike rounds,r,senate,2014,SD
+rick weiland,d,senate,2014,SD
+larry pressler,o,senate,2014,SD
+gordon howie,o,senate,2014,SD
+ lamar alexander,r,senate,2014,TN
+gordon ball,d,senate,2014,TN
+joe b wilmoth,o,senate,2014,TN
+martin pleasant,o,senate,2014,TN
+tom emerson jr,o,senate,2014,TN
+danny page,o,senate,2014,TN
+rick tyler,o,senate,2014,TN
+joshua james,o,senate,2014,TN
+bartholomew j phillips,o,senate,2014,TN
+edmund l gauthier,o,senate,2014,TN
+eric schechter,o,senate,2014,TN
+choudhury salekin,o,senate,2014,TN
+ john cornyn,r,senate,2014,TX
+david alameel,d,senate,2014,TX
+rebecca paddock,o,senate,2014,TX
+emily marie sanchez,o,senate,2014,TX
+ mark warner,d,senate,2014,VA
+ed gillespie,r,senate,2014,VA
+robert sarvis,o,senate,2014,VA
+ shelley moore capito,r,senate,2014,WV
+natalie tennant,d,senate,2014,WV
+john s buckley,o,senate,2014,WV
+ bob henry baber,o,senate,2014,WV
+phil hudok,o,senate,2014,WV
+ mike enzi,r,senate,2014,WY
+charlie hardy,d,senate,2014,WY
+ curt gottshall,o,senate,2014,WY
+joe porambo,o,senate,2014,WY
+ richard shelby,r,senate,2016,AL
+ron crumpton,d,senate,2016,AL
+ lisa murkowski,r,senate,2016,AK
+joe miller,o,senate,2016,AK
+margaret stock,o,senate,2016,AK
+ray metcalfe,d,senate,2016,AK
+ john mccain,r,senate,2016,AZ
+ann kirkpatrick,d,senate,2016,AZ
+ john boozman,r,senate,2016,AR
+conner eldridge,d,senate,2016,AR
+frank gilbert,o,senate,2016,AR
+ kamala harris,d,senate,2016,CA
+loretta sanchez,d,senate,2016,CA
+ michael bennet,d,senate,2016,CO
+darryl glenn,r,senate,2016,CO
+lily tang williams,o,senate,2016,CO
+arn menconi,o,senate,2016,CO
+ richard blumenthal,d,senate,2016,CT
+dan carter,r,senate,2016,CT
+richard lion,o,senate,2016,CT
+jeff russell,o,senate,2016,CT
+ marco rubio,r,senate,2016,FL
+patrick murphy,d,senate,2016,FL
+paul stanton,o,senate,2016,FL
+ johnny isakson,r,senate,2016,GA
+jim barksdale,d,senate,2016,GA
+allen buckley,o,senate,2016,GA
+ brian schatz,d,senate,2016,HI
+john carroll,r,senate,2016,HI
+ mike crapo,r,senate,2016,ID
+jerry sturgill,d,senate,2016,ID
+ray writz,o,senate,2016,ID
+ tammy duckworth,d,senate,2016,IL
+mark kirk,r,senate,2016,IL
+kent mcmillen,o,senate,2016,IL
+scott summers,o,senate,2016,IL
+ todd young,r,senate,2016,IN
+evan bayh,d,senate,2016,IN
+lucy brenton,o,senate,2016,IN
+ chuck grassley,r,senate,2016,IA
+patty judge,d,senate,2016,IA
+john heiderscheit,o,senate,2016,IA
+ jerry moran,r,senate,2016,KS
+patrick wiesner,d,senate,2016,KS
+robert garrard,o,senate,2016,KS
+ rand paul,r,senate,2016,KY
+jim gray,d,senate,2016,KY
+john n kennedy,r,senate,2016,LA
+foster campbell,d,senate,2016,LA
+ chris van hollen,d,senate,2016,MD
+kathy szeliga,r,senate,2016,MD
+margaret flowers,o,senate,2016,MD
+ roy blunt,r,senate,2016,MO
+jason kander,d,senate,2016,MO
+jonathan dine,o,senate,2016,MO
+ catherine cortez masto,d,senate,2016,NV
+joe heck,r,senate,2016,NV
+tony gumina,o,senate,2016,NV
+tom sawyer,o,senate,2016,NV
+jarrod michael williams,o,senate,2016,NV
+ maggie hassan,d,senate,2016,NH
+kelly ayotte,r,senate,2016,NH
+brian chabot,o,senate,2016,NH
+ chuck schumer,d,senate,2016,NY
+wendy long,r,senate,2016,NY
+alex merced,o,senate,2016,NY
+robin wilson,o,senate,2016,NY
+ richard burr,r,senate,2016,NC
+deborah ross,d,senate,2016,NC
+sean haugh,o,senate,2016,NC
+ john hoeven,r,senate,2016,ND
+eliot glassheim,d,senate,2016,ND
+robert marquette,o,senate,2016,ND
+ rob portman,r,senate,2016,OH
+ted strickland,d,senate,2016,OH
+joseph demare,o,senate,2016,OH
+ james lankford,r,senate,2016,OK
+mike workman,d,senate,2016,OK
+robert murphy,o,senate,2016,OK
+ ron wyden,d,senate,2016,OR
+mark callahan,r,senate,2016,OR
+jim lindsay,o,senate,2016,OR
+eric navickas,o,senate,2016,OR
+ pat toomey,r,senate,2016,PA
+katie mcginty,d,senate,2016,PA
+edward clifford,o,senate,2016,PA
+ tim scott,r,senate,2016,SC
+thomas dixon,d,senate,2016,SC
+bill bledsoe,o,senate,2016,SC
+ john thune,r,senate,2016,SD
+jay williams,d,senate,2016,SD
+ mike lee,r,senate,2016,UT
+misty k snow,d,senate,2016,UT
+bill barron,o,senate,2016,UT
+ patrick leahy,d,senate,2016,VT
+scott milne,r,senate,2016,VT
+cris ericson,o,senate,2016,VT
+jerry trudell,o,senate,2016,VT
+ patty murray,d,senate,2016,WA
+chris vance,r,senate,2016,WA
+ ron johnson,r,senate,2016,WI
+russ feingold,d,senate,2016,WI
+phil anderson,o,senate,2016,WI
+ tina smith,d,senate,2018,MN
+karin housley,r,senate,2018,MN
+jerry trooien,o,senate,2018,MN
+ cindy hydesmith,r,senate,2018,MS
+mike espy,d,senate,2018,MS
+ kyrsten sinema,d,senate,2018,AZ
+martha mcsally,r,senate,2018,AZ
+angela green,o,senate,2018,AZ
+ dianne feinstein,d,senate,2018,CA
+kevin de leon,d,senate,2018,CA
+ chris murphy,d,senate,2018,CT
+matthew corey,r,senate,2018,CT
+richard lion,o,senate,2018,CT
+jeff russell,o,senate,2018,CT
+ tom carper,d,senate,2018,DE
+robert arlett,r,senate,2018,DE
+demitri theodoropoulos,o,senate,2018,DE
+nadine frost,o,senate,2018,DE
+ rick scott,r,senate,2018,FL
+bill nelson,d,senate,2018,FL
+ mazie hirono,d,senate,2018,HI
+ron curtis,r,senate,2018,HI
+ mike braun,r,senate,2018,IN
+joe donnelly,d,senate,2018,IN
+lucy brenton,o,senate,2018,IN
+ angus king,o,senate,2018,ME
+eric brakey,r,senate,2018,ME
+zak ringelstein,d,senate,2018,ME
+ ben cardin,d,senate,2018,MD
+tony campbell,r,senate,2018,MD
+neal simon,o,senate,2018,MD
+arvin vohra,o,senate,2018,MD
+michael puskar,o,senate,2018,MD
+ elizabeth warren,d,senate,2018,MA
+geoff diehl,r,senate,2018,MA
+shiva ayyadurai,o,senate,2018,MA
+ debbie stabenow,d,senate,2018,MI
+john james,r,senate,2018,MI
+marcia squier,o,senate,2018,MI
+george huffman iii,o,senate,2018,MI
+ amy klobuchar,d,senate,2018,MN
+jim newberger,r,senate,2018,MN
+paula m overby,o,senate,2018,MN
+ roger wicker,r,senate,2018,MS
+david baria,d,senate,2018,MS
+danny bedwell,o,senate,2018,MS
+shawn ohara,o,senate,2018,MS
+ josh hawley,r,senate,2018,MO
+claire mccaskill,d,senate,2018,MO
+craig odear,o,senate,2018,MO
+japheth campbell,o,senate,2018,MO
+jo crain,o,senate,2018,MO
+ jon tester,d,senate,2018,MT
+matthew rosendale,r,senate,2018,MT
+rick breckenridge,o,senate,2018,MT
+ deb fischer,r,senate,2018,NE
+jane raybould,d,senate,2018,NE
+jim schultz,o,senate,2018,NE
+ jacky rosen,d,senate,2018,NV
+dean heller,r,senate,2018,NV
+barry michaels,o,senate,2018,NV
+tim hagan,o,senate,2018,NV
+ bob menendez,d,senate,2018,NJ
+bob hugin,r,senate,2018,NJ
+madelyn hoffman,o,senate,2018,NJ
+murray sabrin,o,senate,2018,NJ
+ martin heinrich,d,senate,2018,NM
+mick rich,r,senate,2018,NM
+gary johnson,o,senate,2018,NM
+ kirsten gillibrand,d,senate,2018,NY
+chele chiavacci farley,r,senate,2018,NY
+ kevin cramer,r,senate,2018,ND
+heidi heitkamp,d,senate,2018,ND
+ sherrod brown,d,senate,2018,OH
+jim renacci,r,senate,2018,OH
+ bob casey jr,d,senate,2018,PA
+lou barletta,r,senate,2018,PA
+dale kerns,o,senate,2018,PA
+neal gale,o,senate,2018,PA
+ sheldon whitehouse,d,senate,2018,RI
+robert flanders,r,senate,2018,RI
+ marsha blackburn,r,senate,2018,TN
+phil bredesen,d,senate,2018,TN
+trudy austin,o,senate,2018,TN
+dean hill,o,senate,2018,TN
+kris todd,o,senate,2018,TN
+john carico,o,senate,2018,TN
+breton phillips,o,senate,2018,TN
+kevin mccants,o,senate,2018,TN
+ ted cruz,r,senate,2018,TX
+beto orourke,d,senate,2018,TX
+neal dikeman,o,senate,2018,TX
+ mitt romney,r,senate,2018,UT
+jenny wilson,d,senate,2018,UT
+tim aalders,o,senate,2018,UT
+craig bowden,o,senate,2018,UT
+ryan daniel jackson,o,senate,2018,UT
+caleb dan reeve,o,senate,2018,UT
+ bernie sanders,o,senate,2018,VT
+lawrence zupan,r,senate,2018,VT
+ tim kaine,d,senate,2018,VA
+corey stewart,r,senate,2018,VA
+matt waters,o,senate,2018,VA
+ maria cantwell,d,senate,2018,WA
+susan hutchison,r,senate,2018,WA
+ joe manchin,d,senate,2018,WV
+patrick morrisey,r,senate,2018,WV
+rusty hollen,o,senate,2018,WV
+ tammy baldwin,d,senate,2018,WI
+leah vukmir,r,senate,2018,WI
+ john barrasso,r,senate,2018,WY
+gary trauner,d,senate,2018,WY
+joe porambo,o,senate,2018,WY
