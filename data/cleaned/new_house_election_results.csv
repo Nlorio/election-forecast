@@ -816,12 +816,12 @@ richard johnson,o,house,2018-11-06 00:00:00,OR,4,peter defazio,1986,1.4,False
 kurt schrader,d,house,2018-11-06 00:00:00,OR,5,kurt schrader,2008,55.1,True
 mark callahan,r,house,2018-11-06 00:00:00,OR,5,kurt schrader,2008,42.0,False
 dan souza,o,house,2018-11-06 00:00:00,OR,5,kurt schrader,2008,1.6,False
-brian fitzpatrick,r,house,2018-11-06 00:00:00,PA,1,brian fitzpatrick redistricted from the 8th district,2016,51.3,False
-scott wallace,d,house,2018-11-06 00:00:00,PA,1,brian fitzpatrick redistricted from the 8th district,2016,48.7,False
-brendan boyle,d,house,2018-11-06 00:00:00,PA,2,brendan boyle redistricted from the 13th district,2014,,False
-david torres,r,house,2018-11-06 00:00:00,PA,2,brendan boyle redistricted from the 13th district,2014,,False
-dwight evans,d,house,2018-11-06 00:00:00,PA,3,dwight evans redistricted from the 2nd district,2016,,False
-bryan leib,r,house,2018-11-06 00:00:00,PA,3,dwight evans redistricted from the 2nd district,2016,,False
+brian fitzpatrick,r,house,2018-11-06 00:00:00,PA,1,brian fitzpatrick,2016,51.3,True
+scott wallace,d,house,2018-11-06 00:00:00,PA,1,brian fitzpatrick,2016,48.7,False
+brendan boyle,d,house,2018-11-06 00:00:00,PA,2,brendan boyle,2014,,True
+david torres,r,house,2018-11-06 00:00:00,PA,2,brendan boyle,2014,,False
+dwight evans,d,house,2018-11-06 00:00:00,PA,3,dwight evans,2016,,True
+bryan leib,r,house,2018-11-06 00:00:00,PA,3,dwight evans,2016,,False
 madeleine dean,d,house,2018-11-06 00:00:00,PA,4,,,63.4,False
 dan david,r,house,2018-11-06 00:00:00,PA,4,,,36.6,False
 mary gay scanlon,d,house,2018-11-06 00:00:00,PA,5,,,65.1,False
@@ -831,30 +831,30 @@ greg mccauley,r,house,2018-11-06 00:00:00,PA,6,ryan costello,2014,41.2,False
 susan wild,d,house,2018-11-06 00:00:00,PA,7,,,53.4,False
 marty nothstein,r,house,2018-11-06 00:00:00,PA,7,,,43.5,False
 tom silfies,o,house,2018-11-06 00:00:00,PA,7,,,3.1,False
-matt cartwright,d,house,2018-11-06 00:00:00,PA,8,matt cartwright redistricted from the 17th district,2012,,False
-john chrin,r,house,2018-11-06 00:00:00,PA,8,matt cartwright redistricted from the 17th district,2012,,False
-dan meuser,r,house,2018-11-06 00:00:00,PA,9,lou barletta redistricted from the 11th district,2010,59.9,False
-denny wolff,d,house,2018-11-06 00:00:00,PA,9,lou barletta redistricted from the 11th district,2010,40.1,False
-scott perry,r,house,2018-11-06 00:00:00,PA,10,scott perry redistricted from the 4th district,2012,51.3,False
-george scott,d,house,2018-11-06 00:00:00,PA,10,scott perry redistricted from the 4th district,2012,48.7,False
-lloyd smucker,r,house,2018-11-06 00:00:00,PA,11,lloyd smucker redistricted from the 16th district,2016,58.6,False
-drew anderson,o,house,2018-11-06 00:00:00,PA,11,lloyd smucker redistricted from the 16th district,2016,,False
-jess king,d,house,2018-11-06 00:00:00,PA,11,lloyd smucker redistricted from the 16th district,2016,41.4,False
-tom marino,r,house,2018-11-06 00:00:00,PA,12,tom marino redistricted from the 10th district,2010,,False
-marc friedenberg,d,house,2018-11-06 00:00:00,PA,12,tom marino redistricted from the 10th district,2010,,False
-jerry kairnes,o,house,2018-11-06 00:00:00,PA,12,tom marino redistricted from the 10th district,2010,,False
-john joyce,r,house,2018-11-06 00:00:00,PA,13,bill shuster redistricted from the 9th district,2002,70.4,False
-brent ottaway,d,house,2018-11-06 00:00:00,PA,13,bill shuster redistricted from the 9th district,2002,29.6,False
+matt cartwright,d,house,2018-11-06 00:00:00,PA,8,matt cartwright,2012,,True
+john chrin,r,house,2018-11-06 00:00:00,PA,8,matt cartwright,2012,,False
+dan meuser,r,house,2018-11-06 00:00:00,PA,9,lou barletta,2010,59.9,False
+denny wolff,d,house,2018-11-06 00:00:00,PA,9,lou barletta,2010,40.1,False
+scott perry,r,house,2018-11-06 00:00:00,PA,10,scott perry,2012,51.3,True
+george scott,d,house,2018-11-06 00:00:00,PA,10,scott perry,2012,48.7,False
+lloyd smucker,r,house,2018-11-06 00:00:00,PA,11,lloyd smucker,2016,58.6,True
+drew anderson,o,house,2018-11-06 00:00:00,PA,11,lloyd smucker,2016,,False
+jess king,d,house,2018-11-06 00:00:00,PA,11,lloyd smucker,2016,41.4,False
+tom marino,r,house,2018-11-06 00:00:00,PA,12,tom marino,2010,,True
+marc friedenberg,d,house,2018-11-06 00:00:00,PA,12,tom marino,2010,,False
+jerry kairnes,o,house,2018-11-06 00:00:00,PA,12,tom marino,2010,,False
+john joyce,r,house,2018-11-06 00:00:00,PA,13,bill shuster,2002,70.4,False
+brent ottaway,d,house,2018-11-06 00:00:00,PA,13,bill shuster,2002,29.6,False
 guy reschenthaler,r,house,2018-11-06 00:00:00,PA,14,,,58.0,False
 bibiana boerio,d,house,2018-11-06 00:00:00,PA,14,,,42.0,False
-glenn thompson,r,house,2018-11-06 00:00:00,PA,15,glenn thompson redistricted from the 5th district,2008,67.9,False
-susan boser,d,house,2018-11-06 00:00:00,PA,15,glenn thompson redistricted from the 5th district,2008,32.1,False
-mike kelly,r,house,2018-11-06 00:00:00,PA,16,mike kelly redistricted from the 3rd district,2010,51.5,False
-ron dinicola,d,house,2018-11-06 00:00:00,PA,16,mike kelly redistricted from the 3rd district,2010,47.4,False
-bill beeman,o,house,2018-11-06 00:00:00,PA,16,mike kelly redistricted from the 3rd district,2010,1.1,False
-conor lamb,d,house,2018-11-06 00:00:00,PA,17,conor lamb redistricted from the 18th district,2018,56.2,False
-keith rothfus,r,house,2018-11-06 00:00:00,PA,17,conor lamb redistricted from the 18th district,2018,43.8,False
-mike doyle,d,house,2018-11-06 00:00:00,PA,18,mike doyle redistricted from the 14th district,1994,,False
+glenn thompson,r,house,2018-11-06 00:00:00,PA,15,glenn thompson,2008,67.9,True
+susan boser,d,house,2018-11-06 00:00:00,PA,15,glenn thompson,2008,32.1,False
+mike kelly,r,house,2018-11-06 00:00:00,PA,16,mike kelly,2010,51.5,True
+ron dinicola,d,house,2018-11-06 00:00:00,PA,16,mike kelly,2010,47.4,False
+bill beeman,o,house,2018-11-06 00:00:00,PA,16,mike kelly,2010,1.1,False
+conor lamb,d,house,2018-11-06 00:00:00,PA,17,conor lamb,2018,56.2,True
+keith rothfus,r,house,2018-11-06 00:00:00,PA,17,conor lamb,2018,43.8,False
+mike doyle,d,house,2018-11-06 00:00:00,PA,18,mike doyle,1994,,True
 david cicilline,d,house,2018-11-06 00:00:00,RI,1,david cicilline,2010,66.8,True
 patrick donovan,r,house,2018-11-06 00:00:00,RI,1,david cicilline,2010,33.2,False
 daniel joseph guilmette,o,house,2018-11-06 00:00:00,RI,1,david cicilline,2010,,False
