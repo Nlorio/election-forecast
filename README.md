@@ -1,4 +1,4 @@
-# tenguins
+# Tenguins
 Project repository for Data-X, Fall 2018
 
 ## Virtual environment setup
@@ -49,8 +49,14 @@ API keys are stored in `config.yaml`, which is withheld from the git repository 
 	- Ignore this. Same as first part of '538_grade_to_score.ipynb'. Can be used to verify the correctness of it.
 
 - DemocratRepublican_Classification.ipynb
-	- Assigns party affiliation to the current leader of a race (formatted as a time series)G
+	- Assigns party affiliation to the current leader of a race (formatted as a time series)
 	- For Gubernatorial, Senatorial, and House races
+	
+- Model_ROC.ipynb
+	- Polls only model using rate of change and exponentially weighted moving averages
+	- Was to predict final election spreads, not just wins and losses
+		- Model doesn't work especially well
+	- The spread feature for our final model was created in this notebook
 
 - Polls_Agg.ipynb
 	- Attempt to aggregate polls data with PredictIt markets
