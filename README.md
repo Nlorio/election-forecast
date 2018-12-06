@@ -83,6 +83,24 @@ API keys are stored in `config.yaml`, which is withheld from the git repository 
 		- New Wikipedia scraper for Senate races
 
 
+- Project - FEC Financial Data .ipynb
+    - FEC API Calls to Collect Basic Required Dataframes
+
+
+- FEC_reformat_df.ipynb
+    - Reformat some basic collected dataframes or use later down the line. 
+
+- FEC_collect_donors.ipynb
+    - Code to facilitate API calls to FEC to collect donor information for selected candidates that we were able to collect election results for. 
+    - This notebook was rewritten into a .py file which was run on an ec2 instance. 
+
+- FEC_donor_data_Feature_Eng.ipynb
+    - Initial feature engineering / cleaning of dataframes for future feature engineering.
+
+- Feature_engineering_and_FEC_Poll_model.ipynb
+    - Continued feature engineering on dataset. 
+    - Ran models on different features as they were developed / introduced into the dataset.
+    - Attempt to unbias some of the dataset. 
 
 ## Cleaned Data
 
